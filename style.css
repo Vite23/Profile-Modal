@@ -153,6 +153,13 @@ body {
     justify-content: space-evenly;
 }
 
+#linkedin,
+#git,
+#whatsapp {
+    font-size: 29px;
+    padding: 12px 18px;
+    border-radius: 50px;
+}
 #linkedin {
     color: #45c1ff;
     border: 1px solid #45c1ff;
